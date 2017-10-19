@@ -1,4 +1,4 @@
 Pierwsze zajęcia z oprogramowaniem git
 druga zmiana
 trzecia zmiania na edytorzze
-
+czwarta zmiana na server
